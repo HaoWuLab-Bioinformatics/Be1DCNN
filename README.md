@@ -6,7 +6,8 @@ Neural network model for chromatin loop prediction based on bagging integrated l
 
 #### 安装教程
 
-无需安装，下载源码即可运行（请保证Anaconda3虚拟环境可用）。
+下载源码或者fork，在根目录下运行脚本 python setup.py install。
+进入bi1dcnn目录运行trainModels来训练模型。
 
 #### 使用说明
 
